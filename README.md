@@ -1,4 +1,3 @@
-Hi, I,m sasha <img align='right' src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width="180" height="150">
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=qweered&count_private=true&show_icons=true&theme=github_dark&custom_title=My&nbsp;Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qweered&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)-->
