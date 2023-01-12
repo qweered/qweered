@@ -1,7 +1,7 @@
 🌱 I’m currently learning Javascript, HTML and CSS  
 👯 I’m looking to collaborate on open-source projects, coding challenges and hackathons
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=qweered&count_private=true&show_icons=true&theme=github_dark&custom_title=My&nbsp;Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qweered&count_private=true&show_icons=true&theme=github_dark&custom_title=My&nbsp;Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qweered&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
