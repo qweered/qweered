@@ -1,4 +1,4 @@
-[![spring-easing's badge](https://deno.bundlejs.com/?q=@reatom/core&badge=detailed&badge-style=for-the-badge)](https://bundlejs.com/?q=@reatom/core)
+[![reatom badge](https://deno.bundlejs.com/?q=@reatom/core&badge=detailed&badge-style=for-the-badge)](https://bundlejs.com/?q=@reatom/core)
 🌱 I’m currently mastering React & Typescript
 
 👯 I’m looking to collaborate on open-source projects, coding challenges and hackathons
