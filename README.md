@@ -22,7 +22,6 @@
 | Area | Focus |
 |------|-------|
 | **Nix / NixOS** | nixpkgs packaging, infrastructure, CI tooling, performance, treewide refactors |
-| **Developer tooling** | flatpak, Hyprland on NixOS |
 | **Frontend** | React, TypeScript, Expo (side projects) |
 
 ### Selected open-source contributions (past year)
