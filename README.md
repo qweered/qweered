@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://github.com/qweered">
-    <img src="https://github-readme-stats.vercel.app/api?username=qweered&count_private=true&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" alt="GitHub stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=qweered&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" alt="GitHub stats" />
   </a>
   <a href="https://github.com/qweered">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qweered&theme=github_dark&hide_border=true&layout=compact&hide=html,css" alt="Top languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=qweered&theme=github_dark&hide_border=true&layout=compact&hide=html,css" alt="Top languages" />
   </a>
 </p>
 
