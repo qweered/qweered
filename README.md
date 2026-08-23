@@ -1,4 +1,4 @@
-<h1 align="center">Aliaksandr</h1>
+<h1 align="center">Aliaksandr Samatyia</h1>
 
 <p align="center">
   <i>Software engineer · Vilnius, Lithuania</i>
